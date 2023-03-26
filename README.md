@@ -2,7 +2,7 @@
 [Link](https://drive.google.com/drive/u/0/folders/1_ybm1BCu0J2hqIiN6AAWJmz9_JzoaU-U?fbclid=IwAR2KJuUh2UFSPg3R9s2ZzjZXB7NzPMmTGPlihXOyjCrbp6UmOuJ6E7j9nr8)
 
 
-# Google
+# MicroSoft
 ```
 Top LeetCode questions asked in 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐬 for 𝐒𝐃𝐄 𝐫𝐨𝐥𝐞 ❤️
 
